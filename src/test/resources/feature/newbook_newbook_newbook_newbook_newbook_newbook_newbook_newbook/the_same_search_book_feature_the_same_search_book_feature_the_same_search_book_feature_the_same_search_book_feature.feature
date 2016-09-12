@@ -1,5 +1,5 @@
-@Story_BookSearch @ST_225764352
-Feature: Book search
+@ST_225764352 @Story_BookSearch
+Feature: the_same_search_book_feature_the_same_search_book_feature_the_same_search_book_feature_the_same_search_book_feature
   To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
 Background: 
