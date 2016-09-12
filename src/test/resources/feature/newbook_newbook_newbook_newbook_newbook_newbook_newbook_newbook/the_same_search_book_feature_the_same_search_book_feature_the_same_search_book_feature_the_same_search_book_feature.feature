@@ -1,4 +1,4 @@
-@ST_225764352 @Story_BookSearch
+@Story_BookSearch @ST_225764352
 Feature: the_same_search_book_feature_the_same_search_book_feature_the_same_search_book_feature_the_same_search_book_feature
   To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
@@ -10,7 +10,7 @@ And today is 2015-11-18
 @SC_247848187
 Scenario: QQQQQQQQQQQQQQQQQQQQQQQqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq
 Given scenario with long name
-And name has to be trunkated
+And name has to be trunkated156515555ftghfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffw677777777777777777777777777777777777777777
 
 @Critical @Test_1 @SC_242451161
 Scenario: Search books by publication year
